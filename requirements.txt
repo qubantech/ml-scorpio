@@ -1,0 +1,6 @@
+Flask
+requests
+python-firebase
+pandas
+sklearn
+scikit-learn
